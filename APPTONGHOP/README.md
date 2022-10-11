@@ -1,12 +1,12 @@
-[!Hinh đăng ký]
+![Hinh đăng ký]
 (https://raw.githubusercontent.com/tranggnguyen/TH_LTDD/master/APPTONGHOP/Images/AnhDK.png)
-[!Hinh đăng nhập]
+![Hinh đăng nhập]
 (https://raw.githubusercontent.com/tranggnguyen/TH_LTDD/master/APPTONGHOP/Images/Anhlogin.png)
-[!Hinh Navgation]
+![Hinh Navgation]
 (https://raw.githubusercontent.com/tranggnguyen/TH_LTDD/master/APPTONGHOP/Images/NAV.png)
-[!Hinh profile]
+![Hinh profile]
 (https://raw.githubusercontent.com/tranggnguyen/TH_LTDD/master/APPTONGHOP/Images/AnhProfle.png)
-[!Hinh ListView]
+![Hinh ListView]
 (https://raw.githubusercontent.com/tranggnguyen/TH_LTDD/master/APPTONGHOP/Images/anhListView.png)
-[!Hinh thông tin]
+![Hinh thông tin]
 (https://raw.githubusercontent.com/tranggnguyen/TH_LTDD/master/APPTONGHOP/Images/INF.png)
