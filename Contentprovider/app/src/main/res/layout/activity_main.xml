@@ -23,8 +23,8 @@
 
     <TextView
         android:id="@+id/textView"
-        android:layout_width="232dp"
-        android:layout_height="57dp"
+        android:layout_width="318dp"
+        android:layout_height="178dp"
         android:layout_marginTop="168dp"
         android:gravity="center"
         android:text="Kết quả"

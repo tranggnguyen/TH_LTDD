@@ -53,13 +53,6 @@ public class Demo31nMainActivity extends AppCompatActivity {
             String contactName=getContactName();
             String contactNumber=getcontactNumber();
             textView.setText(contactName +"-"+contactNumber);
-            textView.setOnClickListener(new View.OnClickListener() {
-                @Override
-                public void onClick(View v) {
-                    Toast.makeText(Demo31nMainActivity.this,
-                            "Your Message", Toast.LENGTH_LONG).show();
-                }
-            });
         }
 
     }
@@ -90,8 +83,8 @@ public class Demo31nMainActivity extends AppCompatActivity {
         Cursor cursorPhone = getContentResolver()
                 .query(ContactsContract.CommonDataKinds.Phone.CONTENT_URI,
                         new  String[]{ContactsContract.CommonDataKinds.Phone.NUMBER},
-                        ContactsContract.CommonDataKinds.Phone.CONTACT_ID +"= ? AND"+
-                         ContactsContract.CommonDataKinds.Phone.TYPE+"="+
+                        ContactsContract.CommonDataKinds.Phone.CONTACT_ID +" = ? AND "+
+                         ContactsContract.CommonDataKinds.Phone.TYPE+" = "+
                          ContactsContract.CommonDataKinds.Phone.TYPE_MOBILE,
                         new String[]{contactID},null);
 
