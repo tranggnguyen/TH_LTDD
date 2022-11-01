@@ -1,3 +1,3 @@
-![TEXT](https://raw.githubusercontent.com/tranggnguyen/LTDD/master/Contentprovider/Images/dl.png)
-![TEXT](https://raw.githubusercontent.com/tranggnguyen/LTDD/master/Contentprovider/Images/hienthidanhsach.png)
-![TEXT](https://raw.githubusercontent.com/tranggnguyen/LTDD/master/Contentprovider/Images/thongtin.png)
+![TEXT](https://raw.githubusercontent.com/tranggnguyen/TH_LTDD/master/Contentprovider/Images/contac.png)
+![TEXT](https://raw.githubusercontent.com/tranggnguyen/TH_LTDD/master/Contentprovider/Images/contact2.png)
+![TEXT](https://raw.githubusercontent.com/tranggnguyen/TH_LTDD/master/Contentprovider/Images/chitiet.png)
