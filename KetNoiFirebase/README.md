@@ -1,8 +1,13 @@
 ![Ảnh đăng ký](https://raw.githubusercontent.com/tranggnguyen/LTDD/master/BTGK/Images/AnhDK.png)
 ![Ảnh đăng nhập](https://raw.githubusercontent.com/tranggnguyen/LTDD/master/BTGK/Images/anhDN.png)
-![Ânh Navigtion](https://raw.githubusercontent.com/tranggnguyen/LTDD/master/BTGK/Images/anhNav.png)
-![Ảnh Profile](https://raw.githubusercontent.com/tranggnguyen/LTDD/master/BTGK/Images/AnhProfle.png)
-![Ảnh ListView](https://raw.githubusercontent.com/tranggnguyen/LTDD/master/BTGK/Images/anhListView.png)
-![Ảnh add](https://raw.githubusercontent.com/tranggnguyen/LTDD/master/BTGK/Images/Anhadd.png)
-![Ảnh Remove](https://raw.githubusercontent.com/tranggnguyen/LTDD/master/BTGK/Images/Anhxoa.png)
-![Ảnh Giỏ hàng](https://raw.githubusercontent.com/tranggnguyen/LTDD/master/BTGK/Images/Anhgiohang.png)
+![Anh List](https://raw.githubusercontent.com/tranggnguyen/TH_LTDD/master/KetNoiFirebase/Images/LIST.png)
+![Anh THEM](https://raw.githubusercontent.com/tranggnguyen/TH_LTDD/master/KetNoiFirebase/Images/ADDSV.png)
+![Anh edit/delete](https://raw.githubusercontent.com/tranggnguyen/TH_LTDD/master/KetNoiFirebase/Images/EDIT_CHINHSUA.png)
+![Anh Ndung](https://raw.githubusercontent.com/tranggnguyen/TH_LTDD/master/KetNoiFirebase/Images/NDUNG.png)
+![Anh firebase/gmail](https://raw.githubusercontent.com/tranggnguyen/TH_LTDD/master/KetNoiFirebase/Images/gmail.png)
+![Ảnh SinhVien](https://raw.githubusercontent.com/tranggnguyen/TH_LTDD/master/KetNoiFirebase/Images/sinhvien.png)
+
+
+
+
+
