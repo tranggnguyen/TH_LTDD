@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:textAlignment="center"
+    tools:context=".NgonnguInfo">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="0dp"
+        android:layout_marginEnd="0dp"
+        android:layout_marginBottom="0dp"
+        android:orientation="vertical">
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="120dp"
+            android:layout_marginTop="70dp"
+            android:layout_marginBottom="50dp"
+            android:text="VIỆT NAM"
+            android:textColor="@color/doo"
+            android:textSize="30dp" />
+
+        <EditText
+            android:id="@+id/sothunhat"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="60dp"
+            android:layout_marginEnd="60dp"
+            android:layout_marginBottom="30dp"
+            android:hint="Nhập ví dụ của ngôn ngữ"
+            android:padding="15dp"
+            android:textSize="15sp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/btnLuu"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="100dp"
+                android:layout_marginEnd="100dp"
+                android:layout_weight="1"
+                android:backgroundTint="@color/doo"
+                android:text="LƯU"
+                android:textColor="@color/white" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <TextView
+                android:id="@+id/lichsu"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="30dp"
+                android:text="LỊCH SỬ:"
+                android:textColor="@color/doo"
+                android:textSize="22dp" />
+            <ListView
+                android:id="@+id/lv2"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:gravity="center"/>
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>
